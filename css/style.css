@@ -1,0 +1,82 @@
+body {
+	background-color: white;
+}
+
+a:link 
+{ 
+ text-decoration:none; 
+ color: #282826;
+} 
+
+a:visited {
+	color: #282826
+}
+
+div#hautpage {
+	width:1250px;
+	height:50px;
+	background-color: #1E1E1D;
+	}
+
+div#contenu {
+	width:1250px;
+	height:1300px;
+	background-color:#000000;
+	}
+div#piedpage {
+	width:1250px;
+	height:50px;
+	background-color: #1E1E1D;
+	}
+	
+h1
+{
+    color: white;
+	font-family: Times New Roman;
+}
+
+h2
+{
+    color: white;
+	font-family: Times New Roman;
+}
+
+h3
+{
+    color: white;
+	font-family: Times New Roman;
+}
+
+h4
+{
+    color: white;
+	font-family: Times New Roman;
+}
+
+h5
+{
+    color: white;
+	font-family: Times New Roman;
+}
+
+h6
+{
+    color: white;
+	font-family: Times New Roman;
+}
+
+table,
+td {
+	border: 1px solid #fff;
+	width: 35%;
+}
+
+thead,
+tfoot {
+    background-color: #fff;
+    color: #000000;
+}
+
+.coteimages {
+	float:left;
+	}
